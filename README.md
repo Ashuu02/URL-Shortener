@@ -1,1 +1,2 @@
 # URL-Shortener
+Generates short URLs from long ones, limited to 5 characters. URL shortener turns lengthy URLs into concise links, usually under 20 characters, for easy sharing. Also performs CRUD operations on URLs.
